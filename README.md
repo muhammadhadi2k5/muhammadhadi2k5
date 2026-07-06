@@ -12,7 +12,10 @@
 
 </pre>
 </div>
-                                                                                                                                             
+
+<p align="center">
+  <img src="comp_smash.gif" alt="Insert cool profile GIF :(" width="20%">
+</p>                                                                                                                                             
                                                                                                                                              
                                                                                                                                           
 
