@@ -29,22 +29,22 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite" showText=true" alt="SQLite"/>
- <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=35&showText=true" alt="fastapi" />
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="react" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=50" alt="npm" />
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="react" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=50" alt="npm" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=eslint&size=40&showText=true" alt="eslint" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=34&showText=true" alt="prettier" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=45" alt="vite" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=anaconda&size=45" alt="anaconda" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=googlecolab&size=35&showText=true" alt="googlecolab" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=35&showText=true" alt="mongodb" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=35&showText=true" alt="ubuntu" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=35&showText=true" alt="postgresql" />
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+	<img src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=35&color=%233b82f6&showText=true" alt="sqlite" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=35&showText=true" alt="fastapi" />
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=eslint&size=40&showText=true" alt="eslint" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=34&showText=true" alt="prettier" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=35&showText=true" alt="vite" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=anaconda&size=35&showText=true" alt="anaconda" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=googlecolab&size=35&showText=true" alt="googlecolab" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=35&showText=true" alt="mongodb" />
 
 </div>
 
