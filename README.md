@@ -29,6 +29,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img src="https://www.readmecodegen.com/api/social-icon?name=r&size=50" alt="r" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
     <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="react" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=50" alt="npm" />
@@ -41,10 +42,10 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
     <img src="https://www.readmecodegen.com/api/social-icon?name=eslint&size=40&showText=true" alt="eslint" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=34&showText=true" alt="prettier" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=35&showText=true" alt="vite" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=anaconda&size=35&showText=true" alt="anaconda" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=googlecolab&size=35&showText=true" alt="googlecolab" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=35&showText=true" alt="mongodb" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=35&showText=true" alt="postman" />
 
 </div>
 
