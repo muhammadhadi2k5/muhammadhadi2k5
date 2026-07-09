@@ -32,6 +32,7 @@
 	<img src="https://www.readmecodegen.com/api/social-icon?name=r&size=50" alt="r" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
     <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="react" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=50" alt="nodedotjs" />
     <img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=50" alt="npm" />
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
 	<img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=35&showText=true" alt="ubuntu" />
